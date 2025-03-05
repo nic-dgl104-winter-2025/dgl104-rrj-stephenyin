@@ -71,3 +71,10 @@
 - "As a user, I can upload photos and reviews of a trail after completing it."
 - "As a user, I can download a trail map for offline use during a hike."
 - "As a user, I can share a trail with friends from the app."
+
+## Project progress
+
+- Made a group with Wakako
+- Chosen Tech stack
+- Completed the initial architecture for class, sequence, and database in the first phase
+- The second phase will be completed through a division of work.
