@@ -9,3 +9,4 @@ Research and Reflection Journal for DGL 104 course
 - [Week12](./Week12/README.md)
 - [Week13](./Week13/README.md)
 - [Week14](./Week14/README.md)
+- [Contributing](./CONTRIBUTING.md)
