@@ -22,4 +22,13 @@ I usually contribute to a project by forking a repository, modifying the code, t
 
 ## Week10
 
-- (TODO)
+- Optimize the security of reading data from MySQL.
+
+## Week11
+
+- None
+
+## Week12
+
+- Implement the Tasks & Comments Management module.
+- Deploy the website on AWS cloud by using Gunicorn and Nginx. It is on http://54.190.54.136/
