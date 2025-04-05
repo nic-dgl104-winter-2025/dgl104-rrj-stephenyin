@@ -31,4 +31,5 @@ I usually contribute to a project by forking a repository, modifying the code, t
 ## Week12
 
 - Implement the Tasks & Comments Management module.
+- Integrate OpenAI into the project to analyze the status of tasks for users.
 - Deploy the website on AWS cloud by using Gunicorn and Nginx. It is on http://54.190.54.136/
